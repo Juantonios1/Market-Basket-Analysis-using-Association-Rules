@@ -1,4 +1,4 @@
-# Market-Basket-Analysis-using-Association-Rules
+# Market Basket Analysis using Association Rules
 In this project, i want to share how to know what item will people buy based on other item using Association rule. This analysis only using transaction history.
 
 ![absent](Image/shop1.jpg)
